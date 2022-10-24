@@ -1,6 +1,6 @@
 const user = [
   {
-    id: "sreehari2003",
-    class: "s5 cse",
+    id: "manjesh2022",
+    class: "S7 CSE",
   },
 ];
