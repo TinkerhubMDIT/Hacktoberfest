@@ -6,5 +6,8 @@ const user = [
   {
     id: "sreehari2003",
     class: "s5 cse",
-  },
+  },{
+    id: "NandagopanP",
+    class: "S5 cse",
+  }
 ];
