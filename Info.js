@@ -9,5 +9,9 @@ const user = [
   },{
     id: "NandagopanP",
     class: "S5 cse",
+  },
+  {
+    id: "Rithingithub",
+    class: "S5 CSE",
   }
 ];
